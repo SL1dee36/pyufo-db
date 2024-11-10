@@ -87,7 +87,7 @@ RelativeDB - это простая реляционная база данных,
 ## Пример использования
 
 ```python
-from relativedb import RelativeDB
+from py_ufo_db import RelativeDB
 
 db = RelativeDB()
 

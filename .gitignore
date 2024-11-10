@@ -1,2 +1,5 @@
 
 setup.py
+/build
+/dist
+/py_ufo_db.egg-info

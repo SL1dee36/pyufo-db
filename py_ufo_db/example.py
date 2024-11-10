@@ -1,4 +1,4 @@
-from pyufodb import *
+from py_ufo_db import *
 
 db = RelativeDB()
 
