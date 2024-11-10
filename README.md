@@ -36,7 +36,7 @@ git clone https://github.com/SL1dee36/pyufo-db.git
 ## Пример использования
 
 ```python
-from pyufodb import *
+from py_ufo_db import *
 
 db = RelativeDB()
 
